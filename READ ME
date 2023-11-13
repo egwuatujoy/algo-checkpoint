@@ -1,1 +1,18 @@
+An algorithm that read a sentence, which ends with a point and character by character.
 
+
+
+
+
+
+To determine:
+
+The length of the sentence (the number of characters).
+The number of words in the sentence (assuming that the words are separated by a single space).
+The number of vowels in the sentence.
+
+And: 
+
+Treating each character separately.
+Making the last character a point.
+Using three variables as counters.
